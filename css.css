@@ -24,7 +24,7 @@ body{
 .container{
     background-image: 
     linear-gradient(to right, #01022de5 30% , #00000067),
-    url(img1/ava1.webp);
+    url(ava1.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -93,6 +93,7 @@ background-color: transparent;
 border-color:white;
 color: white;
 }
+
 
 
 
