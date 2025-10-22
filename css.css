@@ -34,7 +34,7 @@ body{
 .container:hover{
     background-image: 
     linear-gradient(to right, #01022de5 30% , transparent),
-    url(img1/ava1.webp);
+    url(ava1.webp);
     background-repeat: no-repeat;
     background-size: cover;
   
@@ -93,6 +93,7 @@ background-color: transparent;
 border-color:white;
 color: white;
 }
+
 
 
 
